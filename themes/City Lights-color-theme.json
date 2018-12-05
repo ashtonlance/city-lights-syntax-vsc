@@ -41,7 +41,7 @@
     "dropdown.border": "#41505e",
     "dropdown.foreground": "#fff",
 
-    "editor.background": "#1D252C",
+    "editor.background": "#171D23",
 
     "editor.foreground": "#B7C5D3",
 
@@ -73,7 +73,7 @@
     "editorError.border": "#333F4A",
     "editorError.foreground": "#e27e8d",
 
-    "editorGutter.background": "#1D252C",
+    "editorGutter.background": "#171D23",
     "editorGutter.addedBackground": "#8bd49c",
     "editorGutter.deletedBackground": "#e27e8d",
     "editorGutter.modifiedBackground": "#26506D",
